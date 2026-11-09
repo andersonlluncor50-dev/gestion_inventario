@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  6 20:43:30 2026
-
-@author: Anderson
-"""
 
 """Sistema de Gestión de Inventario y Ventas para una microempresa."""
 
