@@ -5,12 +5,7 @@ Created on Fri Nov  6 20:43:30 2026
 @author: Anderson
 """
 
-"""Sistema de Gestión de Inventario y Ventas para una microempresa.
-
-Aplicación en consola que permite registrar productos, consultarlos,
-actualizar el inventario, realizar ventas con descuento y emitir un
-reporte de ventas, validando todos los datos ingresados por el usuario.
-"""
+"""Sistema de Gestión de Inventario y Ventas para una microempresa."""
 
 # Constantes
 
